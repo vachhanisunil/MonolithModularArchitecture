@@ -1,5 +1,5 @@
 # MonolithModularArchitecture
 Clean Architecture
 
-## Solution Studio
+## Opening in Visual Studio (Solution Studio)
 Open this repository in Visual Studio as the base solution for the Monolith Modular Architecture project.
